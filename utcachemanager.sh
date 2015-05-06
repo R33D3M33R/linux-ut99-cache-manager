@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 #Author: Andrej Mernik, 2008, http://andrej.mernik.eu/clanki/linux/utcachemanager/
 #License: GPLv3
 
