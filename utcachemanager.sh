@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Andrej Mernik, 2008, http://andrej.mernik.eu/clanki/linux/utcachemanager/
+#Author: Andrej Mernik, 2008-2017, https://andrej.mernik.eu/clanki/linux/utcachemanager/
 #License: GPLv3
 
 #Unreal Tournament install directory
